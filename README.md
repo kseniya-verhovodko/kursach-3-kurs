@@ -14,18 +14,22 @@ Frontend: Angular 16, TypeScript, Bootstrap.
 
 
 #### Каталог услуг
-![img_2.png](img_2.png)
+<img width="974" height="407" alt="img_2" src="https://github.com/user-attachments/assets/3ad6ced8-2616-4abf-a21a-18b652bb1540" />
+
 #### Вход
-![img_3.png](img_3.png)
+<img width="673" height="512" alt="img_3" src="https://github.com/user-attachments/assets/070c161b-0b6e-4208-8e60-2661a4893964" />
 #### Регистрация
-![img_4.png](img_4.png)
+<img width="523" height="864" alt="img_4" src="https://github.com/user-attachments/assets/4f1f4f95-a988-4811-991a-44b654bb3b7a" />
+
 #### Оформление записи
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+<img width="584" height="689" alt="img_5" src="https://github.com/user-attachments/assets/e54e625b-1f7d-49e1-bfe9-c207e2bc598d" />
+<img width="993" height="422" alt="img_6" src="https://github.com/user-attachments/assets/ea8bd6ea-4085-4256-a586-461a3b5ce2f0" />
+
 #### Панель администратора	
-![img_8.png](img_8.png)
+<img width="974" height="248" alt="img_8" src="https://github.com/user-attachments/assets/5d29d43a-f3c8-49c5-8869-16fa7f186229" />
+
 #### Календарь мастера
-![img_7.png](img_7.png)
+<img width="974" height="562" alt="img_7" src="https://github.com/user-attachments/assets/46e0329f-7541-4f59-b826-f9bdad25920e" />
 
 ### Ключевой функционал 
 Система ролей: Разграничение доступа для трех типов пользователей: Клиент, Мастер, Администратор.
