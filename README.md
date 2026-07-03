@@ -18,6 +18,7 @@ Frontend: Angular 16, TypeScript, Bootstrap.
 
 #### Вход
 <img width="673" height="512" alt="img_3" src="https://github.com/user-attachments/assets/070c161b-0b6e-4208-8e60-2661a4893964" />
+
 #### Регистрация
 <img width="523" height="864" alt="img_4" src="https://github.com/user-attachments/assets/4f1f4f95-a988-4811-991a-44b654bb3b7a" />
 
