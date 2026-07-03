@@ -10,7 +10,8 @@ Frontend: Angular 16, TypeScript, Bootstrap.
 
 ### Скриншоты интерфейса
 #### Главная страница	
-![img_1.png](img_1.png)
+<img width="974" height="414" alt="img_1" src="https://github.com/user-attachments/assets/b35e0546-3897-4605-aec8-758e18e3f07a" />
+
 
 #### Каталог услуг
 ![img_2.png](img_2.png)
